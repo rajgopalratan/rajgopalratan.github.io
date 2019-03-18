@@ -1,1 +1,0 @@
-# rajgopalratan.github.io
