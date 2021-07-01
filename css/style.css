@@ -2,10 +2,6 @@
     font-family: inter,sans-serif;
 }
 
-.body{
-    background-color: red !important;
-}
-
 .variantcolor{
 background-image: linear-gradient(103deg, #0c62a8, #b8427d 47%, #fda265);
 -webkit-background-clip: text;
@@ -14,4 +10,9 @@ background-clip: text;
 
 font-size: 100px !important;
 font-weight: 800;
+}
+
+.work img:hover {
+    scale: 1.05;
+    transition-duration: 450ms;
 }
