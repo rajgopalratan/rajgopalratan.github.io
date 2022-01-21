@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
+  <g id="education" transform="translate(-5220 -17)">
+    <g id="Group_292" data-name="Group 292" transform="translate(5220 17)">
+      <rect id="Rectangle_117" data-name="Rectangle 117" width="106" height="106" rx="53" fill="#fff"/>
+    </g>
+    <g id="mortarboard_3_" data-name="mortarboard (3)" transform="translate(5245 3.532)">
+      <path id="Path_43" data-name="Path 43" d="M55.337,51.936,28.77,42.562a1.653,1.653,0,0,0-1.1,0L1.1,51.936a1.654,1.654,0,0,0,0,3.117L27.666,64.5a1.652,1.652,0,0,0,1.108,0l26.567-9.445a1.654,1.654,0,0,0,0-3.117Z" transform="translate(0 0)" fill="#f86083"/>
+      <path id="Path_44" data-name="Path 44" d="M435.822,212.157V197.734l-3.307,1.176v13.248a3.32,3.32,0,0,0,0,5.759v8.126a1.654,1.654,0,1,0,3.307,0v-8.126a3.32,3.32,0,0,0,0-5.759Z" transform="translate(-383.353 -138.15)" fill="#f86083"/>
+      <path id="Path_45" data-name="Path 45" d="M122.041,228.008a4.948,4.948,0,0,1-1.662-.287l-14.935-5.309v7.276c0,1.78,1.857,3.286,5.52,4.474a38.981,38.981,0,0,0,22.154,0c3.663-1.189,5.52-2.694,5.52-4.474v-7.276L123.7,227.721A4.949,4.949,0,0,1,122.041,228.008Z" transform="translate(-93.82 -160.108)" fill="#f86083"/>
+    </g>
+  </g>
+</svg>
