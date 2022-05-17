@@ -412,10 +412,14 @@ h6,
     }
 }
 
+li{
+    list-style: none;
+}
+
 p {
     font-size: var(--font-body-1);
     line-height: var(--line-height-b1);
-    margin: 0 0 40px 0;
+    margin: 0 0 20px 0;
 }
 
 .body-font1 {
@@ -2988,7 +2992,7 @@ Pagination
 }
 
 .banner.banner-style-1 .banner-content {
-    margin-top: 60px;
+    margin-top: 0px;
 }
 
 @media only screen and (max-width: 1199px) {
