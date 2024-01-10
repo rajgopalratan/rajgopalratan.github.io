@@ -60,7 +60,9 @@ body {
   --primary-color: #0ea3e7;
   --lighter-color: #ffffff;
   --black-color: #070707;
-  --border-color: #e6e6ea }
+  --border-color: #e6e6ea;
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1295275/background-noise.png');
+  animation: 0.2s infinite noise; }
 
 a {
   color: var(--base-color);
